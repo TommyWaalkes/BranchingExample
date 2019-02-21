@@ -1,1 +1,1 @@
-Hello World!
+Good bye cruel world! I didn't program in C#, cause I am not cool enough
